@@ -82,7 +82,8 @@ sns.countplot(data=dt,x="Survived")
 ```
 dt
 ```
-![Screenshot 2024-03-09 112334](https://github.com/gokulapriya632202/EXNO2DS/assets/119560302/d794b5e8-a0d2-4255-991e-60748625747f)
+![Screenshot 2024-03-09 113810](https://github.com/gokulapriya632202/EXNO2DS/assets/119560302/6970fea4-0ff2-4194-bf19-55eb3c97830a)
+
 
 
 ```
